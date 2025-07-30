@@ -173,6 +173,7 @@ World class security researchers and bug bounty hunters are on Twitter. Where ar
 - [security.snyk.io](https://security.snyk.io/) - Open Source Vulnerability Database
 - [Mend Vulnerability Database](https://www.mend.io/vulnerability-database/) - The largest open source vulnerability DB
 - [Rapid7 - DB](https://www.rapid7.com/db/) - Vulnerability & Exploit Database
+- [Vulert](https://vulert.com/vuln-db) Vulert's vulnerability database lists recent security issues found in open-source packages for languages like PHP, Java, Python, Node.js, and others.
 - [CVEDetails](https://www.cvedetails.com/) - The ultimate security vulnerability datasource
 - [VulnIQ](https://vulniq.com/) - Vulnerability intelligence and management solution
 - [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
